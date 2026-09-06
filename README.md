@@ -23,4 +23,4 @@ The magazine features selected films from American and European cinema, with a f
 
 ## Full Magazine
 
-[📖 Read the Full Magazine (PDF)](./Magazine-PrivateScreening-compressed.pdf)
+[📖 Read the Full Magazine (PDF)](./Magazine-PrivateScreening-Compressed.pdf)
